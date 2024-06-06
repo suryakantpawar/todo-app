@@ -1,0 +1,26 @@
+.form {
+  padding: 3%;
+  text-align: center;
+}
+
+.formInput {
+  height: 50px;
+  width: 50%;
+  margin: 1%;
+  padding-left: 1%;
+  font-size: 150%;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+.formButton {
+  height: 50px;
+  width: 10%;
+  padding: 8px 16px;
+  background-color: #001f5b;
+  color: white;
+  border: none;
+  font-size: 120%;
+  border-radius: 100px;
+  cursor: pointer;
+}

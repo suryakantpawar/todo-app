@@ -1,0 +1,11 @@
+.navbar {
+  background-color: #001f5b;
+  color: white;
+  padding: 10px;
+}
+
+.title {
+  font-size: 250%;
+  margin: 0;
+  padding-left: 3%;
+}
